@@ -1,2 +1,2 @@
 # yam-project
-This project is a web application built with HTML, CSS, Sass, and Bootstrap. It aims to [describe the purpose and features of your project]. The project leverages the power of Sass for efficient CSS development and utilizes Bootstrap, a popular CSS framework, for responsive design and pre-built components.
+This project serves as a comprehensive portfolio showcasing a series of full-stack web development projects. Each project included in this portfolio has been created using HTML, CSS, SCSS, and JavaScript, highlighting various skills and technologies employed in web development. Whether you are a prospective employer, client, or fellow developer, this portfolio provides an overview of my expertise and the diverse range of web applications I've built.
